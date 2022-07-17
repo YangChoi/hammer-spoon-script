@@ -15,3 +15,10 @@
 - open google chrome
 - hammer spoon reload config
 - '하이용' when reload mac
+- make window size 1/2
+- move window left or right
+- make window hint for left
+
+
+..not add anymore for a while...
+..can not remember
